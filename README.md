@@ -1,6 +1,20 @@
 
-I'm Tom Bauer and I am currently a web development student at Lambda School.
+I'm Tom Bauer and I am currently a web development student at Lambda School. Get in touch with me at tom.a.bauer@protonmail.com.
 
-At the moment I'm working on a project with Human Rights First via the Lambda Labs program to build a tool that makes legal research and building a case much easier for Immigration Lawyers dealing with Asylum cases in the US ...
+
+# What I'm working on now ...
+- a project with Human Rights First via the Lambda Labs program to build a tool that makes legal research and building a case much easier for Immigration Lawyers dealing with Asylum cases in the US 
+- finishing up the Lambda School Curriculum - I officially graduate in January 2021
+
+# Languages and Libraries
+- Javascript
+- React
+- Redux
+- Python
+- Node
+- PostgreSQL
+
+
+
 
 
