@@ -13,6 +13,7 @@ I'm Tom Bauer and I am currently a web development student at Lambda School. Get
 - Python
 - Node
 - PostgreSQL
+- Django
 
 
 
